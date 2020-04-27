@@ -1,6 +1,6 @@
 IRC
 ===
-Server: freenode.net
+Server: irc.freenode.net
 Channel: #zandra
 
 Mailing List
