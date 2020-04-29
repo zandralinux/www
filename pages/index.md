@@ -29,7 +29,7 @@ Go to our [GitHub](https://github.com/zandralinux).
 
 * [Ataraxia Linux](https://ataraxialinux.github.io/)
 * [bare](https://github.com/uggedal/bare)
-* [Glaucus Linux](https://www.glaucuslinux.org/)
+* [glaucus](https://www.glaucuslinux.org/)
 * [musl libc](http://musl.libc.org/)
 * [stali](http://sta.li/)
 * [suckless project](http://suckless.org/)
