@@ -3,7 +3,7 @@ body {
 	padding: 0;
 	background-color: #888;
 	color: #000;
-	font-family: sans-serif;
+	font-family: serif;
 	font-size: 100%;
 }
 
@@ -39,5 +39,6 @@ a {
 }
 
 #main {
+	margin: 0.75em;
 	max-width: 70em;
 }
