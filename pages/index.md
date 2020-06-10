@@ -8,8 +8,8 @@ fork of [morpheus linux](http://morpheus.2f30.org).
 ## Obtaining Zandra
 
 Go to our [GitHub](https://github.com/zandralinux). If you would like
-to try out a prebuilt image, you can download one for 0.0-testing
-[here](https://zandra.xyz/img/0.0-testing/zandra-x86_64-0.0-testing.img.xz).
+to try out a prebuilt image, you can download an x86_64 one for
+0.0-testing [here](https://zandra.xyz/img/0.0-testing/zandra-0.0-testing-x86_64.img.xz).
 SHA-512 checksums are [here](https://zandra.xyz/img/0.0-testing/checksums).
 
 ## Related Links
