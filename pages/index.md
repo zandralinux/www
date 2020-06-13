@@ -11,11 +11,9 @@ philosophy of "do one thing and do it well".
 
 ## Obtaining Zandra
 
-Go to our [GitHub](https://github.com/zandralinux). If you would like
-to try out a prebuilt image, you can download an x86_64 one for
-0.0-testing [here](https://zandra.xyz/img/0.0-testing/zandra-0.0-testing-x86_64.img.xz).
-SHA-512 signature is
-[here](https://zandra.xyz/img/0.0-testing/zandra-0.0-testing-x86_64.img.xz.sha512).
+Go to our [GitHub](https://github.com/zandralinux). Pre-built images
+designed for virtual machines are [here](https://zandra.xyz/img).
+Packages lists are [here](https://zandra.xyz/pkg).
 
 ## Related Links
 
