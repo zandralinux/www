@@ -12,7 +12,7 @@ to the project. If you would like your donation to be reserved for a
 specific thing, you can state that if the donation method has a note
 option, or by emailing Ben afterwards with some sort of transaction
 identifier. Questions or comments about donations can be sent to Ben
-at [ben@benoneill.xyz](mailto:ben@benoneill.xyz). Thanks!
+at [ben@zandra.xyz](mailto:ben@zandra.xyz). Thanks!
 
 ## Cryptocurrency
 
