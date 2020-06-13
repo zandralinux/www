@@ -1,10 +1,10 @@
-webbase="/srv/http"
+webbase="/var/www/html"
 
 all:QV:
 	teal
 
 install:QV:
-	cp -rfv out/* /srv/http
+	cp -rfv out/* $webbase
 
 uninstall:QV:
 	for f in pages/*; do
