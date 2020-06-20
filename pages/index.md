@@ -10,9 +10,10 @@ one thing and do it well".
 
 ## Obtaining Zandra
 
-Go to our [GitHub](https://github.com/zandralinux). Pre-built images
-designed for virtual machines are [here](https://zandra.xyz/img).
-Packages lists are [here](https://zandra.xyz/pkg).
+Pre-built images designed for virtual machines are
+[here](https://zandra.xyz/img). Packages lists are
+[here](https://zandra.xyz/pkg). Git repo is
+[here](https://git.zandra.xyz).
 
 ## Related Links
 
