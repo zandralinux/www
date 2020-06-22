@@ -17,16 +17,7 @@ a {
 	color: #fff;
 	top: 0px;
 	width: 100%;
-}
-
-#header a {
-	color: #fff;
-}
-
-#side-bar {
-	background-color: #444;
-	margin: 0;
-	width: 100%;
+	text-align: center;
 }
 
 #side-bar a {
