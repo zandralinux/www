@@ -1,8 +1,8 @@
-IRC
-===
+## IRC
+
 Server: irc.freenode.net
 Channel: #zandra
 
-Mailing List
-============
-In the works.
+## Mailing Lists
+
+[Here](https://lists.zandra.xyz).
