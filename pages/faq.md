@@ -27,6 +27,6 @@ be the primary method in the future, though.
 
 ## Why is Zandra labelled as a Linux distribution instead of a GNU/Linux distribution?
 
-Zandra's base system only contains one GNU package: linux-libre. To
-call Zandra a distribution of GNU/Linux doesn't make sense, but of
-course more GNU packages are provided in Zandra's repositories.
+Zandra's base system contains no GNU programs. To call Zandra a distribution
+of GNU/Linux doesn't make sense, but of course GNU packages are provided in
+Zandra's repositories.
