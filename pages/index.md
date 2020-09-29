@@ -15,6 +15,11 @@ Pre-built images designed for virtual machines are
 [here](https://zandra.xyz/pkg). Git repo is
 [here](https://git.zandra.xyz).
 
+## Questions, Comments, and Suggestions
+
+You can write directly to the lead dev of Zandra at
+[ben@zandra.xyz](mailto:ben@zandra.xyz).
+
 ## Related Links
 
 * [Ataraxia Linux](https://ataraxialinux.github.io/)
