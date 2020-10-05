@@ -1,4 +1,4 @@
-# FAQ
+# Zandra FAQ
 
 ## What is Zandra?
 
