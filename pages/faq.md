@@ -2,9 +2,17 @@
 
 ## What is Zandra?
 
-Zandra is a fully free (as in freedom), minimal, musl-based Linux
-distribution. It is extremely powerful, but we won't be holding your
-hand.
+Zandra is an independent musl-based Linux distribution based on the
+principles of simplicity and efficiency, and composed almost entirely
+out of free software. It is a fork of morpheus linux. It uses Plan 9
+mkfiles to build packages, with both a ports tree and a binary package
+manager. All binaries are statically linked. Every aspect of the
+system tries to conform to the Unix philosophy of "do one thing and do
+it well". Compact and easy-to-understand codebases are also heavily
+prioritized. In order to stick to our philosophy in an elegant and
+practical manner, software such as systemd, electron, and huge desktop
+environments like GNOME and KDE are intentionally not supported in the
+system, among others.
 
 ## Why use Zandra?
 
