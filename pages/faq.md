@@ -30,3 +30,9 @@ be the primary method in the future, though.
 Zandra's base system contains no GNU programs. To call Zandra a distribution
 of GNU/Linux doesn't make sense, but of course GNU packages are provided in
 Zandra's repositories.
+
+## Where can I send my questions, comments, or suggestions?
+
+You can write directly to the lead dev of Zandra at
+[ben@zandra.xyz](mailto:ben@zandra.xyz) or use the IRC channel `#zandra`
+on Freenode.

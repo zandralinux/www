@@ -2,8 +2,7 @@
 
 ## IRC
 
-Server: irc.freenode.net
-Channel: #zandra
+`#zandra` on Freenode.
 
 ## Discord
 
