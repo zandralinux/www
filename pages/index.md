@@ -10,9 +10,9 @@ to conform to the Unix philosophy of "do one thing and do it well".
 ## Obtaining Zandra
 
 Pre-built images designed for virtual machines are
-[here](https://zandra.xyz/img). Packages lists are
-[here](https://zandra.xyz/pkg). Source code repositories are
-[here](https://git.zandra.xyz).
+[here](https://zandra.org/img). Packages lists are
+[here](https://zandra.org/pkg). Source code repositories are
+[here](https://git.zandra.org).
 
 ## Related Links
 
