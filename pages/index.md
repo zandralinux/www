@@ -2,7 +2,7 @@
  
 Zandra is an independent musl-based Linux distribution based on the
 principles of simplicity and efficiency. It is a fork of
-[morpheus linux](http://morpheus.2f30.org). It uses Plan 9 mkfiles to
+[morpheus linux](http://git.2f30.org). It uses Plan 9 mkfiles to
 build packages, with both a ports tree and a binary package manager.
 All binaries are statically linked. Every aspect of the system tries
 to conform to the Unix philosophy of "do one thing and do it well".
