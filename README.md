@@ -1,3 +1,3 @@
 # www
 
-Source code for zandra.xyz. Based on [teal](https://github.com/swegbun/teal).
+Source code for `zandra.org`.
